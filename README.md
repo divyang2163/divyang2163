@@ -77,4 +77,4 @@ Currently building — a Python application that compares job descriptions with 
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/divyang-parikh-2ba4411b7/
-- Portfolio: https://sites.google.com/view/divyangparikh/home 
+- Portfolio: https://sites.google.com/view/divyangparikh
