@@ -1,14 +1,14 @@
 # Hi, I'm Divyang 👋
 
 🎓 Computer Science & Information Systems student with an AI concentration  
-💻 Building projects with Python, data, databases, and Artificial Intelligence  
-🚀 Interested in AI/ML, software development, and data-driven applications  
+💻 Building projects with Python, SQL, MySQL, data analytics, and AI-focused applications  
+🚀 Interested in AI/ML, software development, and data-driven technology
 
 ## 🧠 About Me
 
-I enjoy building practical projects that strengthen my programming, problem-solving, and system design skills.
+I enjoy building practical projects that strengthen my programming, problem-solving, data analysis, and system design skills.
 
-Right now, I am focused on improving my Python skills, learning machine learning, working with data, and building projects that demonstrate what I can create.
+Right now, I am focused on Python, SQL, machine learning, data analytics, and developing projects that solve real-world problems.
 
 ## 🛠️ Skills
 
@@ -19,10 +19,11 @@ Right now, I am focused on improving my Python skills, learning machine learning
 - HTML
 
 ### Data & AI
-- Data Analysis
-- Machine Learning Fundamentals
 - Pandas
 - NumPy
+- Data Analysis
+- Machine Learning Fundamentals
+- Data Visualization
 
 ### Databases
 - MySQL
@@ -31,31 +32,63 @@ Right now, I am focused on improving my Python skills, learning machine learning
 - Normalization
 
 ### Tools
-- GitHub
+- Git & GitHub
 - VS Code
+- MySQL Workbench
+- Streamlit
 - Jupyter Notebook
 - Google Colab
-- MySQL Workbench
 - Excel
+
 ## 🚀 Featured Projects
 
+### 🤖 AI Job Match Analyzer
+
+A Python and Streamlit application that compares a user's technical skills with a job description, calculates a match score, and identifies matched and missing skills.
+
+**Technologies:** Python, Streamlit, Regular Expressions, Skill Matching
+
+🔗 [Live Demo](https://divyang-ai-job-match-analyzer.streamlit.app)  
+💻 [GitHub Repository](https://github.com/divyang2163/ai-job-match-analyzer)
+
+---
+
+### 📊 Sales Analytics Dashboard
+
+An interactive sales analytics dashboard that analyzes revenue, orders, products, customers, categories, and regional performance.
+
+The local version connects directly to a MySQL database while the deployed version can use a CSV fallback.
+
+**Technologies:** Python, Pandas, MySQL, SQL, Streamlit, Matplotlib
+
+🔗 [Live Demo](https://divyang-sales-analytics-dashboard.streamlit.app)  
+💻 [GitHub Repository](https://github.com/divyang2163/sales-analytics-dashboard)
+
+---
+
 ### 🏝️ Journey to the Mysterious Island
-A modular Python text-adventure game featuring branching decisions, shared state, checkpoints, input validation, and multiple endings.
+
+A modular Python text-adventure game featuring branching decisions, shared game state, checkpoints, input validation, and multiple endings.
 
 **Technologies:** Python, Functions, Dictionaries, Loops, Modular Programming
 
-### 📰 My Daily Digest
-A personalized daily briefing workflow that brings together career updates, job opportunities, calendar information, and other actionable information into one concise daily summary.
+💻 [GitHub Repository](https://github.com/divyang2163/Mysterious-island-adventure)
 
-**Focus:** Automation, AI Workflows, Information Organization, Career Planning
+---
+
+### 📰 My Daily Digest
+
+A personalized AI-powered workflow designed to organize career updates, job opportunities, calendar information, and other actionable information into a concise daily briefing.
+
+**Focus:** AI Workflows, Automation, Information Organization, Career Planning
+
+---
 
 ### 🌐 Personal Portfolio Website
-A responsive personal portfolio website created to showcase my background, skills, projects, and career interests in one professional place.
 
-**Technologies:** HTML, JavaScript, Web Development, Responsive Design
+A personal portfolio website showcasing my background, technical skills, projects, and career interests.
 
-### 🤖 AI Job Match Analyzer
-Currently building — a Python application that compares job descriptions with a candidate's skills and identifies matches and skill gaps.
+🔗 [Visit My Portfolio](https://sites.google.com/view/divyangparikh)
 
 ## 📚 Currently Learning
 
@@ -63,7 +96,7 @@ Currently building — a Python application that compares job descriptions with 
 - Data Structures & Algorithms
 - Machine Learning
 - NumPy & Pandas
-- Git & GitHub
+- SQL & Database Development
 - AI Application Development
 
 ## 🎯 Career Interests
@@ -76,5 +109,5 @@ Currently building — a Python application that compares job descriptions with 
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/divyang-parikh-2ba4411b7/
-- Portfolio: https://sites.google.com/view/divyangparikh
+🌐 [Portfolio Website](https://sites.google.com/view/divyangparikh)  
+💼 [LinkedIn](https://www.linkedin.com/in/divyang-parikh-2ba4411b7/)
